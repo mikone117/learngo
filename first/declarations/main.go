@@ -24,4 +24,6 @@ func main() {
 
 	fmt.Println(number1, number2, number3point3)
 
+	nFiles, valid, message := 11, true, "Yeah!"
+	fmt.Println(nFiles, valid, message)
 }
