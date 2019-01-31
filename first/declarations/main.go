@@ -26,4 +26,7 @@ func main() {
 
 	nFiles, valid, message := 11, true, "Yeah!"
 	fmt.Println(nFiles, valid, message)
+
+	number1, number2 = int(number3point3), nFiles
+
 }
